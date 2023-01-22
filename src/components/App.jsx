@@ -7,9 +7,6 @@ import axios from "axios";
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 
-// import twilio from 'twilio';
-// const client = new twilio('AC29cc0ebc7abb98cb612055a8d2872bc2', '1872a21f2fbf92e81e7732a0bf52f699');
-
 const App = () => {
 
     const [modalVisible, setModalVisible] = useState(false)
@@ -79,16 +76,6 @@ const App = () => {
                 });
             }
         });
-
-    // const res = await fetch('/api/sendMessage', {
-    //     method: 'POST',
-    //     headers: {
-    //         'Content-Type': 'application/json',
-    //     },
-    //     body: JSON.stringify({ phone: phone_number, message: message }),
-    // });
-    // console.log('res :>>', res);
-
 
 }
 
