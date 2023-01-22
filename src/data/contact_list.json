@@ -1,0 +1,38 @@
+[
+    {   
+        "id": 7,
+        "first_name": "John",
+        "last_name": "Doe",
+        "phone_number": "555-555-5555"
+    },
+    {   
+        "id": 2,
+        "first_name": "Jane",
+        "last_name": "Smith",
+        "phone_number": "555-555-5556"
+    },
+    {   
+        "id": 3,
+        "first_name": "Bob",
+        "last_name": "Johnson",
+        "phone_number": "555-555-5557"
+    },
+    {   
+        "id": 4,
+        "first_name": "Kisan",
+        "last_name": "Network",
+        "phone_number": "+919810153260"
+    },
+    {   
+        "id": 5,
+        "first_name": "Akshay",
+        "last_name": "Rawal",
+        "phone_number": "+918527335393"
+    },
+    {   
+        "id": 6,
+        "first_name": "Priya",
+        "last_name": "Singh",
+        "phone_number": "+916397043869"
+    }
+]
